@@ -96,8 +96,8 @@ footer {
 }
 
 .subscription {
-	padding-top: 35px;
-	padding-bottom: 35px;
+	padding-top: 70px;
+	padding-bottom: 70px;
 	width: 100%;
 	background-color: rgb(34,34,34);
 	color: white;
@@ -248,7 +248,7 @@ textarea:focus {
 		margin-bottom: 35px;
 	}
 
-	.site-subscription .subscription-input-wrapper {
+	.subscription .subscription-input-wrapper {
     	display: block;
     	width: 100%;
   	}
