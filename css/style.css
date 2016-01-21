@@ -159,6 +159,9 @@ input[type=email]:focus,
 textarea:focus {
   color: #101010;
 }
+.subscription h4 {
+	font-weight: 100;
+}
 
 .inverse-color {
    -webkit-filter: invert(1);
